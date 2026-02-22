@@ -1,0 +1,4 @@
+"""
+Pacote da aplicação FastAPI
+
+"""
